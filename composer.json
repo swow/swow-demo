@@ -1,0 +1,26 @@
+{
+    "name": "swow/swow",
+    "description": "Coroutine-based concurrency library for PHP",
+    "keywords": [
+        "swow",
+        "coroutine",
+        "async",
+        "event",
+        "server",
+        "http",
+        "websocket",
+        "libcat",
+        "swoole",
+        "libuv"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "twose",
+            "email": "twose@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/swow/swow"
+    }
+}
